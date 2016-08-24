@@ -5,7 +5,7 @@ define("MYSQL_USER", "root");
 define("MYSQL_PASSWORD", "");
 
 
-define("RESTRICT_SCHEMA", ""); Here the schemas separated with ","
+define("RESTRICT_SCHEMA", ""); //Here the schemas separated with ","
 
 echo "MYSQL REALTIME SCANNER v0.1 - Detects any change in all tables in all schemas\r\n\r\n";
 
